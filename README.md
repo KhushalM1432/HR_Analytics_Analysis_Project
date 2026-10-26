@@ -1,4 +1,4 @@
-## HR_Analytics_&_Workforce_Insights | Data_Science_&_Business_Analytics_Project | Python
+## HR_Analytics & Workforce_Insights | Data_Science & Business_Analytics_Project | Python
 
 ## Data_Science
 
