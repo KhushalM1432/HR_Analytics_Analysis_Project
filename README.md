@@ -1,6 +1,6 @@
-## HR_Analytics & Workforce_Insights | Data_Science & Business_Analytics_Project | Python
+## HR Analytics & Workforce Insights | Data Science & Business Analytics Project | Python
 
-## Data_Science
+## Data Science
 
 ### 🧑‍💼Project Highlights
 
