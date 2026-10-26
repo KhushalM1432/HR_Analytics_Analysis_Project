@@ -2,7 +2,7 @@
 
 ## Data_Science
 
-## 🧑‍💼Project Highlights
+### 🧑‍💼Project Highlights
 
 1. **Business Problem Analysis:** Analyzed HR data to understand employee attrition, workforce composition, job satisfaction, and performance patterns to identify potential organizational challenges.
 
